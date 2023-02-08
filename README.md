@@ -1,2 +1,2 @@
 # first-repo-from-terraform
-My first resource
+My first resource, manually changed
